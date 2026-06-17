@@ -52,7 +52,7 @@ backend/
 │       └── summarizer.js
 ├── templates/                      # Templates for Frontent
 │   ├── components/
-│   │   ├── qaGen.html
+│   │   ├── qagen.html
 │   │   └── summarizer.html
 │   └── index.html
 ├── .env
